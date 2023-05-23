@@ -98,22 +98,28 @@ ul li.home a{
 } */
 
 
-.footer{
+.footer {
     display: block;
-    background-color: rgb(22, 2, 8);
+    background-color: rgb(51, 13, 24);
     color: #fff;
+   
 }
 .footer .foot{
-    margin-top: 10px;
+    margin-top: 2px;
     display: inline-block;
     margin-left: 5%;
+    margin-right: 5%;
     
 }
-.foor{
-    width:"400";
-    height:"300" ;
-}
+
 .foot a{
    margin-left: 5%;
    display: block;
+   text-decoration: none;
+   color: #fff;
+   text-align: center;
+}
+h2{
+ text-align: center;
+ color:#fff;
 }
