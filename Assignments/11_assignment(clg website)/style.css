@@ -139,6 +139,9 @@ h2{
     
     
 }
-.table{
- background-color: aquamarine;
+/* .table{
+ background-image: linear-gradient(90deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+} */
+.for-image{
+    background-image: linear-gradient(90deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5));
 }
